@@ -3,7 +3,7 @@
 </div>
 
 ###
-<h1 align="center">Hi, I'm Nethsara</h1>
+<h1 align="center"> <img height="30" src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif"  /> Hi, I'm Nethsara Daheminda </h1>
 <h3 align="center"> -Cyber Security- </h3>
 
 ###
