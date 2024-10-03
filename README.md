@@ -78,14 +78,22 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=teanex&label=Profile%20views&color=0e75b6&style=flat" alt="teanex" /> </p>
 
 ###
+<div align="center">
+  <a href="https://youtu.be/AF8LSurfct4?si=p9kcS5FNHOK2D7xc">
+      <img height="300" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Watch on YouTube" />
+  </a>
+</div>
+
+###
 <h3 align="left"> Statistics </h3>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=teanex&show_icons=true&locale=en&bg_color=0d1117&title_color=ff66ff&text_color=ffffff&icon_color=ff66ff&ring_color=ff66ff&line_color=ff66ff" alt="teanex" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=teanex&theme=dark&currStreakLabel=ff66ff&sideNums=ff66ff&ring=ff66ff&fire=ff66ff&currStreakNum=ff66ff&dates=ffffff&sideLabels=ff66ff&stroke=000000" alt="teanex" /> 
 </p>
 
-###
+<p>
+<br clear="both">
+
 <div align="center">
-  <a href="https://youtu.be/1mAgelsVrHs?si=fVHn-Cd1WYJM2ufp">
-    <img src="https://img.youtube.com/vi/1mAgelsVrHs/0.jpg" alt="YouTube video" />
-  </a>
+  <img height="200" src="https://camo.githubusercontent.com/c8c6c51ad0072a128812a8371a77ca915e80e1773cd6d4d9d4b690e2f807772e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72756368697261656469726973696e676865267468656d653d746f6b796f6e6967687426686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374"  />
 </div>
+</p>
