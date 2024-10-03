@@ -89,8 +89,8 @@
 
 ###
 <h3 align="left"> Statistics </h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=teanex&show_icons=true&locale=en&bg_color=0d1117&title_color=ff66ff&text_color=ffffff&icon_color=ff66ff&ring_color=ff66ff&line_color=ff66ff" alt="teanex" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=teanex&theme=dark&currStreakLabel=ff66ff&sideNums=ff66ff&ring=ff66ff&fire=ff66ff&currStreakNum=ff66ff&dates=ffffff&sideLabels=ff66ff&stroke=000000" alt="teanex" /> 
+<p>&nbsp;<img height="200" src="https://github-readme-stats.vercel.app/api?username=teanex&show_icons=true&locale=en&bg_color=0d1117&title_color=ff66ff&text_color=ffffff&icon_color=ff66ff&ring_color=ff66ff&line_color=ff66ff" alt="teanex" /> 
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=teanex&theme=dark&currStreakLabel=ff66ff&sideNums=ff66ff&ring=ff66ff&fire=ff66ff&currStreakNum=ff66ff&dates=ffffff&sideLabels=ff66ff&stroke=000000" alt="teanex" /> 
 </p>
 
 <p>
