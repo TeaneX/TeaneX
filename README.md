@@ -85,7 +85,7 @@
 
 ###
 <div align="center">
-  <a href="https://open.spotify.com/user/Nethsara Daheminda">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Nethsara%20Daheminda&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://youtu.be/1mAgelsVrHs?si=fVHn-Cd1WYJM2ufp">
+    <img src="https://img.youtube.com/vi/1mAgelsVrHs/0.jpg" alt="YouTube video" />
   </a>
 </div>
