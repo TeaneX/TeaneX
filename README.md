@@ -82,3 +82,10 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=teanex&show_icons=true&locale=en&bg_color=0d1117&title_color=ff66ff&text_color=ffffff&icon_color=ff66ff&ring_color=ff66ff&line_color=ff66ff" alt="teanex" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=teanex&theme=dark&currStreakLabel=ff66ff&sideNums=ff66ff&ring=ff66ff&fire=ff66ff&currStreakNum=ff66ff&dates=ffffff&sideLabels=ff66ff&stroke=000000" alt="teanex" /> 
 </p>
+
+###
+<div align="center">
+  <a href="https://open.spotify.com/user/Nethsara Daheminda">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Nethsara%20Daheminda&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
