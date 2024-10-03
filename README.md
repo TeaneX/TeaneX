@@ -1,10 +1,13 @@
 <div align="center">
-  <img height="300" src="https://github-production-user-asset-6210df.s3.amazonaws.com/34578972/265208573-eef7cf9d-56ab-453a-a541-23b4c548090f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241003T131451Z&X-Amz-Expires=300&X-Amz-Signature=9bec6454e1e30a1870a910c28563e3b2e294fabf4d3ef8146b9a00788cd65fa4&X-Amz-SignedHeaders=host"  />
+  <img height="400" src="https://camo.githubusercontent.com/359e7fc5c22e035b02d6120b41c5d5464994e374bf7a208ac14244becf67949e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f30312f31652f30323031316563383535343237376238633730626632326662313932313233632e676966"  />
 </div>
 
 ###
 <h1 align="center"> <img height="30" src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif"  /> Hi, I'm Nethsara Daheminda </h1>
-<h3 align="center"> -Cyber Security- </h3>
+
+<h3 align="center"> <img height="70" src="https://camo.githubusercontent.com/b676b05351a07be167a2abc0ce43a28e21c1e3b7dfaafdbfe39b11e139d454ac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f334f586335694d345679624c7a4b416f42522f67697068792e676966"  /> Cyber Security
+  <img height="70" src="https://camo.githubusercontent.com/7a94504569b436498bc9a595d68ed1a06689c81a00c3bedf0db451f2e769375b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3833773853677971665966465a3549476f462f67697068792e676966"  />
+</h3>
 
 ###
 <p>
