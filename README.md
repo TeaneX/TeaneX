@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nethsara</h1>
-<h3 align="center">-Eccedentesiast ❤️‍🩹 “Sou o autor da minha própria história.”</h3>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+<h1 align="center">Hi, I'm Nethsara</h1>
+<h3 align="center">-Eccedentesiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teanex&label=Profile%20views&color=0e75b6&style=flat" alt="teanex" /> </p>
 
@@ -10,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ndahaminda64732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ndahaminda64732" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nethsara daheminda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nethsara daheminda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nethsara-daheminda-3b4813327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nethsara-daheminda-3b4813327" height="30" width="40" /></a>
 <a href="https://fb.com/netha.04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="netha.04" height="30" width="40" /></a>
 <a href="https://instagram.com/ne_th_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ne_th_a" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ne_th_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ne_th_a" height="30" width="40" /></a>
