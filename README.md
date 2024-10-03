@@ -5,9 +5,9 @@
 ###
 <h1 align="center"> <img height="30" src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif"  /> Hi, I'm Nethsara Daheminda </h1>
 
-<h3 align="center"> <img height="70" src="https://camo.githubusercontent.com/b676b05351a07be167a2abc0ce43a28e21c1e3b7dfaafdbfe39b11e139d454ac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f334f586335694d345679624c7a4b416f42522f67697068792e676966"  /> Cyber Security
+<h1 align="center"> <img height="70" src="https://camo.githubusercontent.com/b676b05351a07be167a2abc0ce43a28e21c1e3b7dfaafdbfe39b11e139d454ac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f334f586335694d345679624c7a4b416f42522f67697068792e676966"  /> Cyber Security
   <img height="70" src="https://camo.githubusercontent.com/7a94504569b436498bc9a595d68ed1a06689c81a00c3bedf0db451f2e769375b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3833773853677971665966465a3549476f462f67697068792e676966"  />
-</h3>
+</h1>
 
 ###
 <p>
