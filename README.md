@@ -3,15 +3,15 @@
 </div>
 
 ###
-<h1>  </h1>
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=+++++++++++++++++Hi%2C+I'm+Nethsara+Daheminda" alt="Typing SVG" /></a>
+<a 
+  href="https://git.io/typing-svg"> <img height="70" src="https://camo.githubusercontent.com/b676b05351a07be167a2abc0ce43a28e21c1e3b7dfaafdbfe39b11e139d454ac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f334f586335694d345679624c7a4b416f42522f67697068792e676966"  /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=+++++++++++++++++Hi%2C+I'm+Nethsara+Daheminda" alt="Typing SVG" /> <img height="70" src="https://camo.githubusercontent.com/7a94504569b436498bc9a595d68ed1a06689c81a00c3bedf0db451f2e769375b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3833773853677971665966465a3549476f462f67697068792e676966"  />
+</a>
 </h1>
 
 ###
-<h1 align="center"> <img height="70" src="https://camo.githubusercontent.com/b676b05351a07be167a2abc0ce43a28e21c1e3b7dfaafdbfe39b11e139d454ac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f334f586335694d345679624c7a4b416f42522f67697068792e676966"  /> Cyber Security
-  <img height="70" src="https://camo.githubusercontent.com/7a94504569b436498bc9a595d68ed1a06689c81a00c3bedf0db451f2e769375b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3833773853677971665966465a3549476f462f67697068792e676966"  />
-</h1>
+<h1 align="center"> Cyber Security </h1>
+
 <div align="center">
   <img height="" src="https://camo.githubusercontent.com/992c4fa06a31e9dc7f4518295b1a25aecdb59047a18f21b9ed37289f5fb39d92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565"  />
 </div>
@@ -134,14 +134,7 @@
 
 ###
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=teanex&label=Profile%20views&color=0e75b6&style=flat" alt="teanex" /> </p>
-
-###
 <h1> </h1>
-<div align="center">
-  <a href="https://youtu.be/AF8LSurfct4?si=p9kcS5FNHOK2D7xc">
-      <img height="300" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Watch on YouTube" />
-  </a>
-</div>
 
 ###
 <h3 align="left"> <img align="left" height="30" src="https://camo.githubusercontent.com/aff607cd63e0646140af35a7d29ef305c4db23e131aca7b4d06aea7c2c162b38/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4d494762744c5a6f566a626c3062596241642f67697068792e6769663f6369643d656366303565343732743268306938643764636a616f6175396971746368687238393968786d70787a7a6763376c7977267269643d67697068792e676966"  />
@@ -154,4 +147,12 @@ GitHub Stats </h3>
 
 <div align="center">
   <img height="200" src="https://camo.githubusercontent.com/c8c6c51ad0072a128812a8371a77ca915e80e1773cd6d4d9d4b690e2f807772e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72756368697261656469726973696e676865267468656d653d746f6b796f6e6967687426686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374"  />
+</div>
+
+###
+<h1> </h1>
+<div align="center">
+  <a href="https://youtu.be/AF8LSurfct4?si=p9kcS5FNHOK2D7xc">
+      <img height="" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Watch on YouTube" />
+  </a>
 </div>
