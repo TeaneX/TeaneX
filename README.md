@@ -102,8 +102,9 @@
 
 ###
 <h1> </h1>
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&duration=4968&pause=1035&center=true&vCenter=true&multiline=true&width=435&lines=Contact+me%3A" alt="Typing SVG" />
-</a> </h1>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Contact+me%3A" alt="Typing SVG" />
+</a>
+</h1>
 
 <div align="center">
   <a href="https://www.facebook.com/Netha.04?mibextid=ZbWKwL" target="_blank">
@@ -143,7 +144,10 @@
 </div>
 
 ###
-<h3 align="left"> 📟GitHub Stats </h3>
+<h3 align="left"> <img align="left" height="30" src="https://camo.githubusercontent.com/aff607cd63e0646140af35a7d29ef305c4db23e131aca7b4d06aea7c2c162b38/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4d494762744c5a6f566a626c3062596241642f67697068792e6769663f6369643d656366303565343732743268306938643764636a616f6175396971746368687238393968786d70787a7a6763376c7977267269643d67697068792e676966"  />
+GitHub Stats </h3>
+
+###
 <p>&nbsp;<img height="200" src="https://github-readme-stats.vercel.app/api?username=teanex&show_icons=true&locale=en&bg_color=0d1117&title_color=ff66ff&text_color=ffffff&icon_color=ff66ff&ring_color=ff66ff&line_color=ff66ff" alt="teanex" /> 
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=teanex&theme=dark&currStreakLabel=ff66ff&sideNums=ff66ff&ring=ff66ff&fire=ff66ff&currStreakNum=ff66ff&dates=ffffff&sideLabels=ff66ff&stroke=000000" alt="teanex" /> 
 </p>
