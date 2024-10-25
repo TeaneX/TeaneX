@@ -134,6 +134,11 @@
 
 ###
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=teanex&label=Profile%20views&color=0e75b6&style=flat" alt="teanex" /> </p>
+
+###
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/teanex99.png" alt="Your Image Badge" /> 
+   </p>
 <h1> </h1>
 
 ###
