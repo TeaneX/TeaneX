@@ -136,10 +136,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=teanex&label=Profile%20views&color=0e75b6&style=flat" alt="teanex" /> </p>
 
 ###
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/teanex99.png" alt="Your Image Badge" /> 
-   </p>
-<h1> </h1>
 
 ###
 <h3 align="left"> <img align="left" height="30" src="https://camo.githubusercontent.com/aff607cd63e0646140af35a7d29ef305c4db23e131aca7b4d06aea7c2c162b38/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4d494762744c5a6f566a626c3062596241642f67697068792e6769663f6369643d656366303565343732743268306938643764636a616f6175396971746368687238393968786d70787a7a6763376c7977267269643d67697068792e676966"  />
