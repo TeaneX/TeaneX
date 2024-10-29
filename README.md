@@ -107,21 +107,6 @@
 </h1>
 
 <div align="center">
-  <a href="https://www.facebook.com/Netha.04?mibextid=ZbWKwL" target="_blank">
-    <img height="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="facebook logo"  />
-  </a>
-  
-  <a href="https://www.instagram.com/t_eanex_?igsh=MW90Z3FkcWh1c3B0cA==" target="_blank">
-    <img height="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo"  />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/nethsara-daheminda-3b4813327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img height="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo"  />
-  </a>
-  
-  <a href="https://youtube.com/@ne_th_a?si=6tpRmvpW8QOex8Vb" target="_blank">
-    <img height="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" alt="youtube logo"  />
-  </a>
   
   <a href="https://discord.gg/6yaRwqYK" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="discord logo"  />
