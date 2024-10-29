@@ -112,7 +112,7 @@
     <img height="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="discord logo"  />
   </a>
   
-  <a href="https://x.com/NDahaminda64732?t=sUt-2t04GUNPMSZBOP9VdA&s=09" target="_blank">
+  <a href="https://x.com/TeaneX99?t=Pg8b2ifQ88lUmuapTqX_Ng&s=09" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="twitter logo"  />
   </a>
 </div>
