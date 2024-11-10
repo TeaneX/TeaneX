@@ -101,4 +101,4 @@ GitHub Stats </h3>
 
 ## Support
 
-For support, email Teanex99@gmail.com.
+For support, email Teanex99@gmail.com
