@@ -94,11 +94,12 @@ src="https://camo.githubusercontent.com/b676b05351a07be167a2abc0ce43a28e21c1e3b7
 <div align="center">
   
   <a href="https://discord.gg/6yaRwqYK" target="_blank">
-    <img height="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="discord logo"  />
+  <img height="40" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"  />
   </a>
   
+###
   <a href="https://x.com/TeaneX99?t=Pg8b2ifQ88lUmuapTqX_Ng&s=09" target="_blank">
-  <img height="30" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"  />
+  <img height="40" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"  />
   </a>
 </div>
 
