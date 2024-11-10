@@ -124,7 +124,3 @@ GitHub Stats </h3>
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/TeaneX/TeaneX/output/snake.svg" alt="Snake animation" />
-
-###
