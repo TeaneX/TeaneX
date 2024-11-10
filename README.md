@@ -110,13 +110,9 @@
 <h3 align="left"> <img align="left" height="30" src="https://camo.githubusercontent.com/aff607cd63e0646140af35a7d29ef305c4db23e131aca7b4d06aea7c2c162b38/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4d494762744c5a6f566a626c3062596241642f67697068792e6769663f6369643d656366303565343732743268306938643764636a616f6175396971746368687238393968786d70787a7a6763376c7977267269643d67697068792e676966"  />
 GitHub Stats </h3>
 
-###
-<p>&nbsp;<img height="200" src="https://github-readme-stats.vercel.app/api?username=teanex&show_icons=true&locale=en&bg_color=0d1117&title_color=ff66ff&text_color=ffffff&icon_color=ff66ff&ring_color=ff66ff&line_color=ff66ff" alt="teanex" /> 
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=teanex&theme=dark&currStreakLabel=ff66ff&sideNums=ff66ff&ring=ff66ff&fire=ff66ff&currStreakNum=ff66ff&dates=ffffff&sideLabels=ff66ff&stroke=000000" alt="teanex" /> 
-</p>
-
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/c8c6c51ad0072a128812a8371a77ca915e80e1773cd6d4d9d4b690e2f807772e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72756368697261656469726973696e676865267468656d653d746f6b796f6e6967687426686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TeaneX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TeaneX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -126,3 +122,5 @@ GitHub Stats </h3>
       <img height="" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Watch on YouTube" />
   </a>
 </div>
+
+###
