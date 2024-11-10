@@ -111,11 +111,14 @@ src="https://camo.githubusercontent.com/b676b05351a07be167a2abc0ce43a28e21c1e3b7
 <h3 align="left"> <img align="left" height="30" src="https://camo.githubusercontent.com/aff607cd63e0646140af35a7d29ef305c4db23e131aca7b4d06aea7c2c162b38/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4d494762744c5a6f566a626c3062596241642f67697068792e6769663f6369643d656366303565343732743268306938643764636a616f6175396971746368687238393968786d70787a7a6763376c7977267269643d67697068792e676966"  />
 GitHub Stats </h3>
 
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TeaneX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TeaneX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 ###
 <h1> </h1>
 <div align="center">
