@@ -5,7 +5,8 @@
 ###
 <h1 align="center">
 <a 
-  href="https://git.io/typing-svg"> <img height="70" src="https://camo.githubusercontent.com/b676b05351a07be167a2abc0ce43a28e21c1e3b7dfaafdbfe39b11e139d454ac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f334f586335694d345679624c7a4b416f42522f67697068792e676966"  /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=+++++++++++++++++Hi%2C+I'm+Nethsara+Daheminda" alt="Typing SVG" /> <img height="70" src="https://camo.githubusercontent.com/7a94504569b436498bc9a595d68ed1a06689c81a00c3bedf0db451f2e769375b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3833773853677971665966465a3549476f462f67697068792e676966"  />
+  href="https://git.io/typing-svg"> <img height="70" 
+src="https://camo.githubusercontent.com/b676b05351a07be167a2abc0ce43a28e21c1e3b7dfaafdbfe39b11e139d454ac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f334f586335694d345679624c7a4b416f42522f67697068792e676966"  /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=+++++++++++++++++Hi%2C+I'm+Nethsara+Daheminda" alt="Typing SVG" /> <img height="70" src="https://camo.githubusercontent.com/7a94504569b436498bc9a595d68ed1a06689c81a00c3bedf0db451f2e769375b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3833773853677971665966465a3549476f462f67697068792e676966"  />
 </a>
 </h1>
 
@@ -105,10 +106,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TeaneX.TeaneX&left_color=blue&right_color=tomato&left_text=Profile%20views"  />
 </div>
-
-###
-
-###
 
 ###
 <h3 align="left"> <img align="left" height="30" src="https://camo.githubusercontent.com/aff607cd63e0646140af35a7d29ef305c4db23e131aca7b4d06aea7c2c162b38/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4d494762744c5a6f566a626c3062596241642f67697068792e6769663f6369643d656366303565343732743268306938643764636a616f6175396971746368687238393968786d70787a7a6763376c7977267269643d67697068792e676966"  />
