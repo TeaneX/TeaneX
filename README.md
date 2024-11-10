@@ -98,7 +98,7 @@ src="https://camo.githubusercontent.com/b676b05351a07be167a2abc0ce43a28e21c1e3b7
   </a>
   
   <a href="https://x.com/TeaneX99?t=Pg8b2ifQ88lUmuapTqX_Ng&s=09" target="_blank">
-    <img height="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="twitter logo"  />
+  <img height="30" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"  />
   </a>
 </div>
 
