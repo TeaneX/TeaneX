@@ -102,7 +102,11 @@
 </div>
 
 ###
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=teanex&label=Profile%20views&color=0e75b6&style=flat" alt="teanex" /> </p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TeaneX.TeaneX&left_color=blue&right_color=tomato&left_text=Profile%20views"  />
+</div>
+
+###
 
 ###
 
