@@ -90,7 +90,6 @@ GitHub Stats </h3>
 </div>
 
 ###
-###
 <h1> </h1>
 <div align="center">
   <a href="https://youtu.be/AF8LSurfct4?si=p9kcS5FNHOK2D7xc">
@@ -99,3 +98,7 @@ GitHub Stats </h3>
 </div>
 
 ###
+
+## Support
+
+For support, email Teanex99@gmail.com.
