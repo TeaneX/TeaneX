@@ -96,16 +96,14 @@ GitHub Stats </h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeaneX/TeaneX/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeaneX/TeaneX/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TeaneX/TeaneX/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
-<h1> </h1>
 <div align="center">
-  <a href="https://youtu.be/AF8LSurfct4?si=p9kcS5FNHOK2D7xc">
-      <img height="" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Watch on YouTube" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TeaneX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ###
 
