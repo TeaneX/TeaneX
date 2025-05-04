@@ -42,6 +42,10 @@
 </div>
 
 ---
+<!-- Profie viwer -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TeaneX.TeaneX&"  />
+</div>
 
 ## 📊 GitHub Stats
 <div align="center">
