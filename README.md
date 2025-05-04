@@ -78,3 +78,10 @@
 
 <!-- Snake Game -->
 <img src="https://raw.githubusercontent.com/TeaneX/TeaneX/output/snake.svg" alt="Snake animation" />
+
+<!-- pacman Game -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeaneX/TeaneX/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeaneX/TeaneX/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TeaneX/TeaneX/output/pacman-contribution-graph.svg">
+</picture>
