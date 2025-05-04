@@ -7,7 +7,7 @@
 
 ---
 
-## 🛡️ Cyber Security
+<div align="center"><h2>🛡️ Cyber Security</h2></div>
 <div align="center">
   <img height="40" src="https://img.shields.io/badge/Python-000000.svg?style=for-the-badge&logo=python&logoColor=blue" />
   <img height="40" src="https://img.shields.io/badge/Kali%20Linux-000000.svg?style=for-the-badge&logo=kalilinux&logoColor=blue" />
@@ -15,7 +15,7 @@
 
 ---
 
-## 🌐 Web Development
+<div align="center"><h2>🌐 Web Development</h2></div>
 <div align="center">
   <img height="40" src="https://img.shields.io/badge/CSS-000000.svg?style=for-the-badge&logo=css3&logoColor=blue" />
   <img height="40" src="https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=blue" />
@@ -24,7 +24,7 @@
 
 ---
 
-## 🐧 Linux Base Development
+<div align="center"><h2>🐧 Linux Base Development</h2></div>
 <div align="center">
   <img height="40" src="https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=git&logoColor=blue" />
   <img height="40" src="https://img.shields.io/badge/C++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎮 Game Development
+<div align="center"><h2>🎮 Game Development</h2></div>
 <div align="center">
   <img height="40" src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=blue" />
   <img height="40" src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=blue" />
