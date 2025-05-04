@@ -1,3 +1,8 @@
+<!--Animated Intro -->
+<div align="center">
+  <img height="470" src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif"  />
+</div>
+
 <!-- Name & Animated Intro -->
 <div align="center">
   <img height="70" src="https://camo.githubusercontent.com/b676b05351a07be167a2abc0ce43a28e21c1e3b7dfaafdbfe39b11e139d454ac/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f334f586335694d345679624c7a4b416f42522f67697068792e676966" alt="Wave" />
