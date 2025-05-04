@@ -69,3 +69,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+
+<!-- Snake Game -->
+<img src="https://raw.githubusercontent.com/TeaneX/TeaneX/output/snake.svg" alt="Snake animation" />
